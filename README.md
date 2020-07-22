@@ -2,7 +2,7 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-22 12:34:48
+ * @LastEditTime: 2020-07-22 12:37:30
  * @FilePath: /drafts/run/media/ghm/____/Github/linkghm/README.md
 --> 
 ### Hi there 👋
@@ -19,6 +19,7 @@
 
 ### Language and tools :
 <code><img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/python.svg"></code>
+![python](https://raw.githubusercontent.com/linkghm/linkghm/master/src/python.svg)
 <code><img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/pytorch.svg"></code>
 
 <!--
