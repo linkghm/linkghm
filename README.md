@@ -2,24 +2,34 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-22 12:41:14
+ * @LastEditTime: 2020-07-22 13:10:52
  * @FilePath: /drafts/run/media/ghm/____/Github/linkghm/README.md
 --> 
 ### Hi there 👋
 
 ### Who am I :
 
-> A student who keeps passion in studying.
+* A student who keeps passion in studying.
 
-> Current city: Shenyang
+* Current city: Shenyang
 
-> Profession: Biomedical Engineering
+* Profession: Biomedical Engineering
 
-> Areas of interest: Computer Vision, Medical Image Processing, Deep Learning
+* Areas of interest: Computer Vision, Medical Image Processing, Deep Learning
 
-### Language and tools :
-<img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/python.svg"> <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/pytorch.svg">
+### Languages and tools :
+<img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/python.svg"> <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/pytorch.svg"> <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/docker.svg"> <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/git.svg"> <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/vim.svg">
 
+### How to reach me :
+[<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/mail.svg" alt="mail logo" width="20">](linkghm@outlook.com) [<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/website.svg" alt="blog logo" width="20">](linkghm.top)
+
+### Goals in 2020 :
+* Finish 2 projects about the current research
+* Keep learning C++
+* Pursue a higher education degree
+
+---
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linkghm.linkghm)
 <!--
 **linkghm/linkghm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
