@@ -2,14 +2,14 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-22 13:14:11
+ * @LastEditTime: 2020-07-22 13:15:30
  * @FilePath: /drafts/run/media/ghm/____/Github/linkghm/README.md
 --> 
 ### Hi there 👋
 
 ### Who am I :
 
-* A student who keeps passion in studying.
+* A student who keeps passion in studying
 
 * Current city: Shenyang
 
