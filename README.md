@@ -2,8 +2,8 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-22 14:04:34
- * @FilePath: /drafts/run/media/ghm/____/Github/linkghm/README.md
+ * @LastEditTime: 2020-07-23 18:01:23
+ * @FilePath: /linkghm/README.md
 --> 
 ### Hi there 👋
 
@@ -27,6 +27,11 @@
 * Finish 2 projects about the current research
 * Keep learning C++
 * Pursue a higher education degree
+
+<a href="#">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=linkghm&theme=default&hide_langs_below=1" />
+</a>
 
 ---
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linkghm.linkghm)
