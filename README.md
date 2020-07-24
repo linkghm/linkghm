@@ -2,7 +2,7 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-24 09:59:48
+ * @LastEditTime: 2020-07-24 10:16:08
  * @FilePath: /linkghm/README.md
 --> 
 ### Hi there 👋
@@ -28,22 +28,14 @@
 * Keep learning C++
 * Pursue a higher education degree
 
-<a href="#">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=linkghm&theme=default&hide_langs_below=1" />
 </a>
 <a href="#">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=linkghm&show_icons=true&theme=default&line_height=20" />
-</a>
+</a> -->
 
 <!--START_SECTION:waka-->
-```text
-Python     7 hrs 15 mins   ███████████████████░░░░░░   78.84 % 
-Markdown   1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   18.78 % 
-JSON       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
 <!--END_SECTION:waka-->
 
 ---
