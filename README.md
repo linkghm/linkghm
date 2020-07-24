@@ -36,6 +36,14 @@
 </a> -->
 
 <!--START_SECTION:waka-->
+```text
+Week: 16 July, 2020 - 23 July, 2020
+
+Python     7 hrs 15 mins   ███████████████████░░░░░░   78.84 % 
+Markdown   1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   18.78 % 
+JSON       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 <!--END_SECTION:waka-->
 
 ---
