@@ -2,8 +2,8 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-24 10:16:08
- * @FilePath: /linkghm/README.md
+ * @LastEditTime: 2020-07-27 14:23:17
+ * @FilePath: /drafts/run/media/ghm/____/Github/linkghm/README.md
 --> 
 ### Hi there 👋
 
@@ -35,6 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=linkghm&show_icons=true&theme=default&line_height=20" />
 </a> -->
 
+### Weekly code statistics
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
