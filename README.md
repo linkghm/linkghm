@@ -2,8 +2,8 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-27 14:23:17
- * @FilePath: /drafts/run/media/ghm/____/Github/linkghm/README.md
+ * @LastEditTime: 2020-07-29 09:00:53
+ * @FilePath: /undefined/run/media/ghm/____/Github/linkghm/README.md
 --> 
 ### Hi there 👋
 
@@ -11,7 +11,7 @@
 
 * A student who keeps passion in studying
 
-* Current city: Shenyang
+* Current city: Shenyang, China
 
 * Profession: Biomedical Engineering
 
