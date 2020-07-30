@@ -38,13 +38,13 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2020 - 28 July, 2020
+Week: 22 July, 2020 - 29 July, 2020
 
-Python     12 hrs 7 mins   █████████████████████░░░░   84.09 % 
-Markdown   2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-JSON       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python     12 hrs 59 mins  ███████████████████████░░   92.70 % 
+Markdown   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JSON       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 <!--END_SECTION:waka-->
 
