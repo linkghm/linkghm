@@ -38,13 +38,13 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2020 - 30 August, 2020
+Week: 24 August, 2020 - 31 August, 2020
 
-Python             41 hrs 25 mins  ████████████████████████▓   98.68 % 
-Other              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-C                  11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-JSON               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python             38 hrs 56 mins  ████████████████████████▓   98.62 % 
+Other              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C                  11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JSON               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 <!--END_SECTION:waka-->
 
