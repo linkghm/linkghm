@@ -38,10 +38,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2020 - 16 September, 2020
+Week: 10 September, 2020 - 17 September, 2020
 
-Python   10 hrs 8 mins   █████████████████████████   99.55 % 
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Python   10 hrs 37 mins  █████████████████████████   99.57 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
 
