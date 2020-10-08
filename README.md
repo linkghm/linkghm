@@ -38,9 +38,7 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
