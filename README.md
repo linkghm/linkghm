@@ -38,7 +38,11 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 October, 2020 - 14 October, 2020
+
+Python   58 mins         ███████████████████▒░░░░░   77.00 % 
+HTML     13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.04 % 
+CSS      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 <!--END_SECTION:waka-->
 
