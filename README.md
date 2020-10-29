@@ -38,10 +38,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2020 - 27 October, 2020
+Week: 21 October, 2020 - 28 October, 2020
 
-Python   20 mins         ██████████████████████▓░░   90.70 % 
-HTML     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Python   40 mins         ███████████████████████▓░   95.11 % 
+HTML     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 <!--END_SECTION:waka-->
 
