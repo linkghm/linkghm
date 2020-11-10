@@ -38,7 +38,9 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 November, 2020 - 09 November, 2020
+
+Python   48 mins         █████████████████████████   99.84 % 
 ```
 <!--END_SECTION:waka-->
 
