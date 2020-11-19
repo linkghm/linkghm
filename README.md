@@ -38,10 +38,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2020 - 17 November, 2020
+Week: 11 November, 2020 - 18 November, 2020
 
-Python     2 hrs 56 mins   ████████████████████████▓   99.03 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python     6 hrs 1 min     ████████████████████████▒   97.96 % 
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
 
