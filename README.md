@@ -38,10 +38,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2020 - 21 December, 2020
+Week: 15 December, 2020 - 22 December, 2020
 
-Python     5 hrs 44 mins   ████████████████████████▓   98.96 % 
-Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Python     6 hrs 35 mins   ████████████████████████▓   99.00 % 
+Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->
 
