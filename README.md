@@ -2,16 +2,16 @@
  * @Author: GUO Huimin
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: GUO Huimin
- * @LastEditTime: 2020-07-29 09:00:53
- * @FilePath: /undefined/run/media/ghm/____/Github/linkghm/README.md
+ * @LastEditTime: 2021-01-01 22:14:50
+ * @FilePath: /drafts/home/ghm/xps-860EVO/Github/linkghm/README.md
 --> 
 ### Hi there 👋
 
 ### Who am I :
 
-* A student who keeps passion in studying
+* Student
 
-* Current city: Shenyang, China
+<!-- * Current city: Shenyang, China -->
 
 * Profession: Biomedical Engineering
 
@@ -21,12 +21,13 @@
 <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/python.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/pytorch.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/docker.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/git.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/vim.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/vscode.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/jetbrains.svg">
 
 ### How to reach me :
-[<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/mail.svg" alt="mail logo" width="24">](mailto:linkghm@outlook.com)  [<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/blog.svg" alt="blog logo" width="24">](http://linkghm.top)
+[<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/mail.svg" alt="mail logo" width="24">](mailto:linkghm@outlook.com)  
+<!-- [<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/blog.svg" alt="blog logo" width="24">](http://linkghm.top) -->
 
-### Goals in 2020 :
+<!-- ### Goals in 2020 :
 * Finish 2 projects about the current research
 * Keep learning C++
-* Pursue a higher education degree
+* Pursue a higher education degree -->
 
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=linkghm&theme=default&hide_langs_below=1" />
