@@ -39,12 +39,11 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
-Python       11 hrs 52 mins  ██████████████████████▒░░   89.79 % 
-Text         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Markdown     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python       11 hrs 1 min    ███████████████████████▒░   92.98 % 
+Text         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 
