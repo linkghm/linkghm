@@ -39,9 +39,9 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2021 - 14 January, 2021
+Week: 08 January, 2021 - 15 January, 2021
 
-Python   5 hrs 40 mins   █████████████████████████   99.94 % 
+Python   6 hrs 20 mins   █████████████████████████   99.95 % 
 ```
 <!--END_SECTION:waka-->
 
