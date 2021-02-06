@@ -39,11 +39,9 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2021 - 04 February, 2021
+Week: 29 January, 2021 - 05 February, 2021
 
-TeX            1 hr 45 mins    ████████████████▒░░░░░░░░   64.96 % 
-INI            29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.88 % 
-OpenEdge ABL   27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
+TeX    32 mins         ████████████████████████▒   97.13 % 
 ```
 <!--END_SECTION:waka-->
 
