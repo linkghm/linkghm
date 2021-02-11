@@ -39,7 +39,7 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 TeX            54 mins         ████████████████████░░░░░   79.56 % 
 INI            7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
