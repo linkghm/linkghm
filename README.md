@@ -39,12 +39,13 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
-TeX            54 mins         ████████████████████░░░░░   79.56 % 
-INI            7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-OpenEdge ABL   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-JSON           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+TeX            48 mins         ███████████░░░░░░░░░░░░░░   44.14 % 
+Python         46 mins         ██████████▓░░░░░░░░░░░░░░   43.09 % 
+INI            7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+OpenEdge ABL   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JSON           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
 
