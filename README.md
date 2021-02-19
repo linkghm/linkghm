@@ -39,13 +39,13 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2021 - 17 February, 2021
+Week: 11 February, 2021 - 18 February, 2021
 
-Markdown   3 hrs 51 mins   █████████████▓░░░░░░░░░░░   54.00 % 
-YAML       1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.59 % 
-Python     50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-TOML       28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-HTML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Markdown   3 hrs 51 mins   ███████████████░░░░░░░░░░   60.63 % 
+YAML       1 hr 49 mins    ███████▒░░░░░░░░░░░░░░░░░   28.73 % 
+TOML       28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+HTML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
 
