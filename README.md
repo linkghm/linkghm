@@ -39,7 +39,7 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
 Markdown   3 hrs 51 mins   ███████████████░░░░░░░░░░   60.63 % 
 YAML       1 hr 49 mins    ███████▒░░░░░░░░░░░░░░░░░   28.73 % 
