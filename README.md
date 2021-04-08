@@ -39,7 +39,7 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
 TeX          31 mins         ███████████████████░░░░░░   75.49 % 
 JSON         10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
