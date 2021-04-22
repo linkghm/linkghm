@@ -39,10 +39,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2021 - 20 April, 2021
+Week: 14 April, 2021 - 21 April, 2021
 
-TeX            3 hrs 38 mins   █████████████▒░░░░░░░░░░░   53.46 % 
-Python         3 hrs 9 mins    ███████████▓░░░░░░░░░░░░░   46.49 % 
+TeX            6 hrs 17 mins   ████████████████▓░░░░░░░░   67.00 % 
+Python         3 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   32.96 % 
 ```
 <!--END_SECTION:waka-->
 
