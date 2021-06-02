@@ -39,10 +39,11 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2021 - 31 May, 2021
+Week: 25 May, 2021 - 01 June, 2021
 
-TeX      5 hrs 16 mins   ████████████████████████▒   97.52 % 
-BibTeX   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TeX      5 hrs 45 mins   █████████████████████▓░░░   87.12 % 
+Python   43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+BibTeX   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
 
