@@ -39,7 +39,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 July, 2021 - 18 July, 2021
+
+TeX            1 hr 39 mins    ██████████████████████▓░░   90.69 % 
+Python         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
 <!--END_SECTION:waka-->
 
