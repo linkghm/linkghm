@@ -39,11 +39,13 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2021 - 04 August, 2021
+Week: 30 July, 2021 - 05 August, 2021
 
-Python       5 hrs 41 mins   ██████████████████████░░░   87.36 % 
-TeX          44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TeX          4 hrs 53 mins   ███████████████████▓░░░░░   78.84 % 
+Python       1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+BibTeX       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
