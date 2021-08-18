@@ -39,7 +39,7 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2021 - 16 August, 2021
+Week: 11 August, 2021 - 17 August, 2021
 
 Python   18 mins         ███████████████████░░░░░░   76.14 % 
 TeX      5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
