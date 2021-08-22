@@ -39,9 +39,7 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2021 - 20 August, 2021
-
-Python   18 mins         ████████████████████████▓   98.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
