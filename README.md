@@ -39,7 +39,9 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 06 September, 2021 - 12 September, 2021
+
+Python     26 mins         █████████████████████████   99.74 % 
 ```
 <!--END_SECTION:waka-->
 
