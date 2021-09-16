@@ -39,7 +39,7 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
 Python     3 hrs 55 mins   █████████████████████▓░░░   86.39 % 
 Markdown   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
