@@ -39,12 +39,11 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
-Python       43 hrs 5 mins   █████████████████████████   99.54 % 
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python       42 hrs 13 mins  █████████████████████████   99.65 % 
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+C++          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
 
