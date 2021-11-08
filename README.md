@@ -39,10 +39,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
-Python   21 hrs 7 mins   ████████████████████████▓   98.36 % 
-TeX      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python   19 hrs 43 mins  ████████████████████████▓   98.24 % 
+TeX      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 <!--END_SECTION:waka-->
 
