@@ -39,9 +39,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2021 - 15 November, 2021
+Week: 10 November, 2021 - 16 November, 2021
 
-Python       24 hrs 18 mins  █████████████████████████   99.93 % 
+Python       23 hrs 6 mins   █████████████████████████   99.53 % 
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
