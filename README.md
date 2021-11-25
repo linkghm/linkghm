@@ -39,11 +39,11 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-Python   12 hrs 48 mins  ██████████████████████▓░░   90.08 % 
-TeX      1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-BibTeX   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python   15 hrs 12 mins  ████████████████████████▒   97.68 % 
+TeX      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+BibTeX   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
 
