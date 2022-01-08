@@ -39,9 +39,9 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
-Python   4 hrs 56 mins   █████████████████████████   100.00 % 
+Python   7 hrs 10 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
