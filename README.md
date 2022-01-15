@@ -39,10 +39,9 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
-Python   2 hrs 14 mins   ███████████████████▓░░░░░   78.68 % 
-TeX      36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.32 % 
+TeX   36 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
