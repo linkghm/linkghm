@@ -39,12 +39,12 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
-Python       2 hrs 4 mins    ███████████████████████░░   91.42 % 
-TeX          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-BibTeX       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python       1 hr 29 mins    ██████████████████████░░░   88.51 % 
+TeX          7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+BibTeX       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 <!--END_SECTION:waka-->
 
