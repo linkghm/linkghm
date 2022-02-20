@@ -39,12 +39,10 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Total: 5 hrs 52 mins
-
-Python     5 hrs 49 mins   ████████████████████████▓   99.17 % 
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python     7 hrs 26 mins   █████████████████████████   99.35 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
