@@ -38,11 +38,15 @@
 
 ### Weekly code statistics
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Python       5 hrs 54 mins   █████████████████████████   99.86 % 
+```text
+From: 21 February 2022 - To: 28 February 2022
+
+Python       2 hrs 46 mins   █████████████████████████   99.69 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
