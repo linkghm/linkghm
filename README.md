@@ -40,12 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 March 2022 - To: 18 March 2022
-
-Python     58 mins         ██████████████████████▒░░   89.64 %
-Markdown   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
