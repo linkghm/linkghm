@@ -40,14 +40,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 July 2022 - To: 12 July 2022
+From: 06 July 2022 - To: 13 July 2022
 
-Python           10 hrs 9 mins   ███████████████████████▓░   94.03 %
-Markdown         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Python           10 hrs 12 mins  ███████████████████████▓░   94.58 %
+Markdown         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 CSV/TSV          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
