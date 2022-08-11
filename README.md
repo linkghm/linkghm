@@ -7,27 +7,22 @@
 --> 
 ### Hi there 👋
 
-### Who am I :
+<!-- ### Who am I : -->
 
-* Student
 
-<!-- * Current city: Shenyang, China -->
+<!-- * Student
 
 * Profession: Biomedical Engineering
 
-* Areas of interest: Computer Vision, Medical Image Processing, Deep Learning
+* Areas of interest: Computer Vision, Medical Image Processing, Deep Learning -->
 
-### Languages and tools :
-<img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/python.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/pytorch.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/docker.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/git.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/vim.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/vscode.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/jetbrains.svg">
+<!-- ### Languages and tools :
+<img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/python.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/pytorch.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/docker.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/git.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/vim.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/vscode.svg">  <img height="20" src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/jetbrains.svg"> -->
 
-### How to reach me :
-[<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/mail.svg" alt="mail logo" width="24">](mailto:linkghm@outlook.com)  
+<!-- ### How to reach me :
+[<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/mail.svg" alt="mail logo" width="24">](mailto:linkghm@outlook.com) -->
+
 <!-- [<img src="https://raw.githubusercontent.com/linkghm/linkghm/master/src/blog.svg" alt="blog logo" width="24">](http://linkghm.top) -->
-
-<!-- ### Goals in 2020 :
-* Finish 2 projects about the current research
-* Keep learning C++
-* Pursue a higher education degree -->
 
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=linkghm&theme=default&hide_langs_below=1" />
