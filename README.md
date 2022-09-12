@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 04 September 2022 - To: 11 September 2022
 
 Python           9 hrs 51 mins   █████████████████████████   99.42 %
 Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
