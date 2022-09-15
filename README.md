@@ -35,11 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-Python           12 hrs          █████████████████████████   99.94 %
-PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   7 hrs 57 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
