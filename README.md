@@ -35,10 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
-Python   30 mins         ████████████████████▓░░░░   82.44 %
-Other    5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Python   2 hrs 26 mins   ███████████████████████░░   92.35 %
+Other    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
