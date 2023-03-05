@@ -35,14 +35,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2023 - To: 03 March 2023
+From: 25 February 2023 - To: 04 March 2023
 
-Python           28 hrs 47 mins  ███████████████████████▓░   94.26 %
-Bash             1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Git Config       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Shell Script     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python           23 hrs 9 mins   ███████████████████████▓░   94.43 %
+Bash             1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Git Config       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
