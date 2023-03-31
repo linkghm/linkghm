@@ -35,10 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2023 - To: 29 March 2023
+From: 23 March 2023 - To: 30 March 2023
 
-Python   3 hrs 52 mins   █████████████████░░░░░░░░   68.47 %
-Bash     1 hr 46 mins    ████████░░░░░░░░░░░░░░░░░   31.53 %
+Python   5 hrs 25 mins   ██████████████▓░░░░░░░░░░   59.11 %
+Bash     3 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   40.89 %
 ```
 
 <!--END_SECTION:waka-->
