@@ -35,11 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2023 - To: 21 April 2023
+From: 15 April 2023 - To: 22 April 2023
 
-Python   2 hrs 26 mins   █████████████████▓░░░░░░░   70.96 %
-TeX      52 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
-Bash     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Python   2 hrs 26 mins   ███████████████████████▓░   94.48 %
+Bash     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
