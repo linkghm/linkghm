@@ -35,11 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2023 - To: 28 April 2023
+From: 22 April 2023 - To: 29 April 2023
 
-Python       5 mins          ██████████████████▓░░░░░░   74.33 %
-Bash         1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-SSH Config   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Python       17 mins         ████████████████████▓░░░░   82.08 %
+Bash         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+SSH Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
