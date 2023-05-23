@@ -35,11 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2023 - To: 21 May 2023
+From: 15 May 2023 - To: 22 May 2023
 
-Python     2 hrs 3 mins    █████████████████████▒░░░   85.29 %
-Bash       20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Python   56 mins         ██████████████████████▓░░   90.55 %
+Bash     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
 ```
 
 <!--END_SECTION:waka-->
