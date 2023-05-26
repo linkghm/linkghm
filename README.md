@@ -35,10 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Python       1 hr 20 mins    ████████████████████████▓   99.33 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Python       2 hrs 9 mins    ████████████████████████▓   98.68 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
