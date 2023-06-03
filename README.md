@@ -34,14 +34,14 @@
 ### Weekly code statistics
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-Python       14 hrs 21 mins  ████████████████████▒░░░░   81.51 %
-Bash         2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Python       13 hrs 54 mins  ███████████████████▓░░░░░   78.80 %
+Bash         2 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 Cython       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
