@@ -35,11 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 09 August 2023
+From: 03 August 2023 - To: 10 August 2023
 
-Python   29 mins         ██████████████████░░░░░░░   72.13 %
-JSON     11 mins         ███████░░░░░░░░░░░░░░░░░░   27.64 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON     11 mins         ████████████▓░░░░░░░░░░░░   50.86 %
+Python   10 mins         ████████████▒░░░░░░░░░░░░   48.85 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
