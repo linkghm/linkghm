@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
 Python     7 hrs 40 mins   ███████████████████▓░░░░░   78.16 %
 Bash       1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
