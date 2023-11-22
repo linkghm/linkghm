@@ -35,9 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2023 - To: 18 November 2023
+From: 14 November 2023 - To: 21 November 2023
 
-No activity tracked
+Python       20 mins         █████████████████████░░░░   84.37 %
+Markdown     3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
