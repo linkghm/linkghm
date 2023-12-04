@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-Python       8 hrs 10 mins   ███████████████████████░░   92.27 %
-Bash         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python       3 hrs 32 mins   ██████████████████████▓░░   90.76 %
+Bash         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+SSH Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
