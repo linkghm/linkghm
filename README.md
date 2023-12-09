@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
 Python       2 mins          █████████████▓░░░░░░░░░░░   54.73 %
 SSH Config   1 min           ███████████▒░░░░░░░░░░░░░   45.27 %
