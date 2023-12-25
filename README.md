@@ -35,9 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-Python   13 mins         █████████████████████████   100.00 %
+Python   13 mins         ████████████████████████░   96.66 %
+Bash     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
