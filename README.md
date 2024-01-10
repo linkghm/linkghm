@@ -35,11 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Python       1 hr 50 mins    █████████████████████░░░░   84.47 %
-Bash         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   57 mins         ██████████████████▓░░░░░░   74.51 %
+Bash     19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
 ```
 
 <!--END_SECTION:waka-->
