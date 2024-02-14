@@ -35,11 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 12 February 2024
+From: 06 February 2024 - To: 13 February 2024
 
-Python       5 hrs 15 mins   █████████████████▒░░░░░░░   69.57 %
-Bash         1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-SSH Config   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Python   4 hrs 43 mins   ███████████████████░░░░░░   75.62 %
+Bash     1 hr 31 mins    ██████░░░░░░░░░░░░░░░░░░░   24.38 %
 ```
 
 <!--END_SECTION:waka-->
