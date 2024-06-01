@@ -35,10 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Python   6 hrs 49 mins   ███████████████████████▓░   95.14 %
-Bash     20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Python   5 hrs 49 mins   ████████████████████████▒   97.53 %
+Bash     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
