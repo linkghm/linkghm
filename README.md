@@ -35,9 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-No activity tracked
+TeX      2 hrs 13 mins   ██████████████████████▒░░   89.28 %
+Python   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Other    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
