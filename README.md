@@ -35,12 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 27 September 2024
+From: 21 September 2024 - To: 28 September 2024
 
-Python   5 hrs 3 mins    ██████████████░░░░░░░░░░░   56.44 %
-Bash     3 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.34 %
-JSON     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   4 hrs 27 mins   █████████████▓░░░░░░░░░░░   54.09 %
+Bash     3 hrs 40 mins   ███████████░░░░░░░░░░░░░░   44.59 %
+JSON     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
