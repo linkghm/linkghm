@@ -35,9 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Python   1 hr 59 mins    █████████████████████████   100.00 %
+Python   1 hr 41 mins    ██████████████████████▒░░   89.91 %
+YAML     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
 ```
 
 <!--END_SECTION:waka-->
