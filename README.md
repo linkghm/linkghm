@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2025 - To: 11 February 2025
+From: 05 February 2025 - To: 12 February 2025
 
-Python         6 hrs 21 mins   █████████████████████▓░░░   86.71 %
-TeX            41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Bash           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Git Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TeX            3 hrs 37 mins   ███████████████▒░░░░░░░░░   61.74 %
+Python         2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.46 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Git Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
