@@ -35,11 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Python   12 hrs 54 mins  ██████████████████████▓░░   91.02 %
-Bash     1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Python   14 hrs 9 mins   ██████████████████████▓░░   90.68 %
+Bash     1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
 JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
