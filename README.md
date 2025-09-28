@@ -35,12 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-Python   5 hrs 19 mins   ██████████████░░░░░░░░░░░   55.46 %
-TeX      4 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   42.64 %
-BibTeX   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Bash     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python   5 hrs 44 mins   ███████████████████▓░░░░░   78.31 %
+TeX      1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+BibTeX   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
