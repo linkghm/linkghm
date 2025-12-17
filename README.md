@@ -35,9 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2025 - To: 15 December 2025
+From: 09 December 2025 - To: 16 December 2025
 
-No activity tracked
+JSON    8 mins          ██████████████▓░░░░░░░░░░   58.06 %
+Typst   5 mins          ██████████▒░░░░░░░░░░░░░░   41.94 %
 ```
 
 <!--END_SECTION:waka-->
