@@ -35,12 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2025 - To: 26 December 2025
+From: 20 December 2025 - To: 27 December 2025
 
-Typst        1 hr 4 mins     █████████████░░░░░░░░░░░░   51.94 %
-Python       55 mins         ███████████░░░░░░░░░░░░░░   44.49 %
-JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       44 mins         ██████████████▓░░░░░░░░░░   58.23 %
+JSON         31 mins         ██████████▒░░░░░░░░░░░░░░   41.74 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
