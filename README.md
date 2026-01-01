@@ -35,10 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Python       53 mins         ███████████████▓░░░░░░░░░   62.51 %
-JSON         31 mins         █████████▒░░░░░░░░░░░░░░░   37.46 %
+Python       46 mins         ██████████████▓░░░░░░░░░░   59.20 %
+JSON         31 mins         ██████████▒░░░░░░░░░░░░░░   40.77 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
