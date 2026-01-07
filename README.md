@@ -35,9 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Python   1 hr 7 mins     █████████████████████████   100.00 %
+Python   2 hrs 6 mins    ██████████████████████░░░   87.44 %
+Bash     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+JSON     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
