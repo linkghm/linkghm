@@ -35,10 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2026 - To: 30 January 2026
+From: 24 January 2026 - To: 31 January 2026
 
-Python   20 hrs 12 mins  █████████████████████████   99.68 %
-JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python   19 hrs 57 mins  █████████████████████████   99.44 %
+Bash     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
