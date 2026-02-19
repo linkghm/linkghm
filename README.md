@@ -35,12 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-Python   29 mins         ██████████████▒░░░░░░░░░░   57.49 %
-Typst    14 mins         ███████░░░░░░░░░░░░░░░░░░   27.64 %
-TOML     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Typst    1 hr 42 mins          ██████████████████▒░░░░░░   73.72 %
+Python   29 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+TOML     7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+YAML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
