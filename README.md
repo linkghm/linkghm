@@ -35,12 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2026 - To: 18 February 2026
+From: 12 February 2026 - To: 19 February 2026
 
-Typst    1 hr 42 mins          ██████████████████▒░░░░░░   73.72 %
-Python   29 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-TOML     7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-YAML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Typst   1 hr 42 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
