@@ -35,12 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Python   9 hrs 34 mins         ███████████████████▓░░░░░   78.29 %
-Bash     1 hr 51 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-HTML     37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-JSON     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python   9 hrs 20 mins         ████████████████████░░░░░   80.08 %
+Bash     2 hrs 6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+JSON     13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
