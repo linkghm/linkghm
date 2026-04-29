@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2026 - To: 27 April 2026
+From: 21 April 2026 - To: 28 April 2026
 
-Python       8 hrs 38 mins         ██████████████████▓░░░░░░   74.33 %
-Git Config   50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Other        42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Bash         38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Markdown     29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Python       12 hrs 10 mins        ████████████████████░░░░░   80.32 %
+Other        1 hr 10 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Git Config   1 hr 7 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Markdown     29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+TOML         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
