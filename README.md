@@ -35,11 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2026 - To: 18 June 2026
+From: 12 June 2026 - To: 19 June 2026
 
-Python   4 hrs 21 mins         █████████████████████▓░░░   87.29 %
-YAML     37 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python   4 hrs 56 mins         ██████████████████████▒░░   89.40 %
+YAML     31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Other    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
