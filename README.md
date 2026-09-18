@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-YAML       2 hrs 34 mins         ████████▓░░░░░░░░░░░░░░░░   34.07 %
-Python     2 hrs 27 mins         ████████░░░░░░░░░░░░░░░░░   32.58 %
-Markdown   1 hr 30 mins          █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-Bash       39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-JSON       14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+YAML       2 hrs 57 mins         ████████▒░░░░░░░░░░░░░░░░   33.94 %
+Python     2 hrs 46 mins         ████████░░░░░░░░░░░░░░░░░   31.79 %
+Markdown   1 hr 30 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+JSON       43 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Bash       39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
 ```
 
 <!--END_SECTION:waka-->
